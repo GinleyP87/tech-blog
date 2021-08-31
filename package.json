@@ -1,10 +1,11 @@
 {
   "name": "14_tech_blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an application that allows you to create edit and delete posts and comments on a blog.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
